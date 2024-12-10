@@ -75,7 +75,7 @@ while True:
 	error = 0
 	clean()
 	main()
-	print(f"|Info|:\n\t|1.| |If you don't have answer, just leave the field empty.|\n\t|2.| |To quit entering details just press ENTER until program starts making wordlist|\n\t|3.| |Do NOT add spaces between your input ONLY for spliting two thing (ex. Name, Name, Name) NOT (ex. Name, Name Name)|\n\n")
+	print(f"|Info|:\n\t|1.| |If you don't have answer, just leave the field empty.|\n\t|2.| |To quit entering details just press ENTER until program starts making wordlist|\n\t|3.| |Do NOT add spaces between your input ONLY for spliting two things (ex. Name, Name, Name) NOT (ex. Name, Name Name)|\n\n")
 	name = input(f"|{person + 1}.Person's first name|: ")
 	if name == "":
 		error += 1
