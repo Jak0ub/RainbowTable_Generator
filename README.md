@@ -9,4 +9,4 @@ Using this tool you can easily make your own rainbow tables
 
 
 > ⚠️ **Warning:**  
-> Threading is not implemented, so if you want to make larger rainbow tables, where you need threading, than i do not recommend this program for you
+> Threading is not implemented, so if you want to make larger rainbow tables, where you need speed, than i do not recommend this program for you
