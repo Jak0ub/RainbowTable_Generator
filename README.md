@@ -1,4 +1,5 @@
-
+![Main Image](https://github.com/Jak0ub/Jak0ub/blob/main/rainbow-table.png)
+`Compatible with Unix and Windows based systems`
 ## SHA256
 ```
 45E7A66F7AB2F153B18F24EF1432A46B2F7EB676D3CBD65334931551A04745D0
