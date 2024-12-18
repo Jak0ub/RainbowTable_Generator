@@ -6,7 +6,7 @@
 ```
 
 ## Description
-Using this tool you can easily make your own rainbow tables
+Using this tool you can easily make your own rainbow tables. If you want to make rule based rainbow table or customize this wordlist, I strongly recommend tool named `John The Ripper`
 
 
 > ⚠️ **Warning:**  
